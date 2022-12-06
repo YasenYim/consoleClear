@@ -1,0 +1,2 @@
+# consoleClear
+Console.Clear
