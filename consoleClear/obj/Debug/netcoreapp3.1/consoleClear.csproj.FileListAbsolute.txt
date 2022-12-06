@@ -1,0 +1,13 @@
+E:\Unity\NikoLua\Hello\consoleClear\bin\Debug\netcoreapp3.1\consoleClear.exe
+E:\Unity\NikoLua\Hello\consoleClear\bin\Debug\netcoreapp3.1\consoleClear.deps.json
+E:\Unity\NikoLua\Hello\consoleClear\bin\Debug\netcoreapp3.1\consoleClear.runtimeconfig.json
+E:\Unity\NikoLua\Hello\consoleClear\bin\Debug\netcoreapp3.1\consoleClear.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\consoleClear\bin\Debug\netcoreapp3.1\consoleClear.dll
+E:\Unity\NikoLua\Hello\consoleClear\bin\Debug\netcoreapp3.1\consoleClear.pdb
+E:\Unity\NikoLua\Hello\consoleClear\obj\Debug\netcoreapp3.1\consoleClear.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\consoleClear\obj\Debug\netcoreapp3.1\consoleClear.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\consoleClear\obj\Debug\netcoreapp3.1\consoleClear.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\consoleClear\obj\Debug\netcoreapp3.1\consoleClear.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\consoleClear\obj\Debug\netcoreapp3.1\consoleClear.dll
+E:\Unity\NikoLua\Hello\consoleClear\obj\Debug\netcoreapp3.1\consoleClear.pdb
+E:\Unity\NikoLua\Hello\consoleClear\obj\Debug\netcoreapp3.1\consoleClear.genruntimeconfig.cache
